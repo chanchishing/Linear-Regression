@@ -1,3 +1,3 @@
 # Linear Regression
 
-Notes of my Linear Regression class using Github [Wiki](https://github.com/chanchishing/Linear-Regression/wiki)
+My study [Notes/Wiki](https://github.com/chanchishing/Linear-Regression/wiki) on the course [Modern Regression Analysis in R](https://www.coursera.org/learn/modern-regression-analysis-in-r/home) on Coursera by University of Colorado Boulder 
